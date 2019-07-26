@@ -1,0 +1,24 @@
+body {
+    background: rgb(78, 50, 50);
+     
+    
+    }
+    
+    h1 {
+        font-size:60px;
+        color:yellow;
+        font-family:"Gil sans"
+    }
+    .line{
+        color:yellow !important;
+        width:100%;
+       }
+
+.line2{
+    border-left: 1.5px solid yellow;
+    height: 700px;
+    position: absolute;
+    left: 50%;
+   
+    top: 58%;
+  }
